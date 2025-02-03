@@ -1,3 +1,4 @@
+'''A simple Calculator'''
 # Basic Math Functions
 
 def add(x, y):
